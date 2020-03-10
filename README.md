@@ -1,4 +1,4 @@
-# LogisticGrouping
+# Categorical-Grouping-With-Logistic-Regression
 
 Purpose: To discover which cohorts (groupings of categorical variables) are the most likely to have their binary dependent variables = YES.
 
